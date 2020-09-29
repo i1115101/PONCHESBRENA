@@ -16,12 +16,11 @@ namespace LogicaNegocio
         {
             dataTipoDocumento.InsUpdDocumentoBD(str);
         }
-
-        public void InsUpdComprobante(string[] str)
+        public void desabDocumento(int num)
         {
-            dataTipoDocumento.InsUpdComprobanteBD(str);
+            dataTipoDocumento.DesabDocumentoBD(num);
         }
-
+        
         public void MostrarTipoDocumento()
         {
             dataTipoDocumento.MostrarTipoDocumento();            

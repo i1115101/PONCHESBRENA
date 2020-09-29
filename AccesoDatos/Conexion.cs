@@ -13,7 +13,8 @@ namespace AccesoDatos
     {
         //public MySqlConnection ConexionBD = new MySqlConnection(" Server=sofosystemserve.mysql.database.azure.com; Port=3306; Database=dbsofosystem; Uid=Leandro@sofosystemserve; Pwd=Sofosystem123; SslMode=Preferred;");
         //Server=sofosystemserve.mysql.database.azure.com; Port=3306; Database={your_database}; Uid=Leandro @sofosystemserve; Pwd={your_password}; SslMode = Preferred;
-        public MySqlConnection ConexionBD = new MySqlConnection("Server = mysql-leandrovegaabraham.alwaysdata.net; Database=leandrovegaabraham_sofoapp;Uid=200915;Pwd=sofosystem");
+        //public MySqlConnection ConexionBD = new MySqlConnection("Server = mysql-leandrovegaabraham.alwaysdata.net; Database=leandrovegaabraham_sofoapp;Uid=200915;Pwd=sofosystem");
+        public MySqlConnection ConexionBD = new MySqlConnection("Server = mysql-sofo.alwaysdata.net; Database=sofo_ponchesbrenadb;Uid=sofo;Pwd=Continent@l2020");
         //string sp;
 
         MySqlDataAdapter Dtpt;

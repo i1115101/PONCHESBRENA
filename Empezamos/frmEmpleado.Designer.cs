@@ -66,6 +66,7 @@
             this.dgvEmpleados = new System.Windows.Forms.DataGridView();
             this.btnNuevo = new Bunifu.Framework.UI.BunifuThinButton2();
             this.btnActualizar = new Bunifu.Framework.UI.BunifuThinButton2();
+            this.btndelete = new Bunifu.Framework.UI.BunifuThinButton2();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.panelMantenimiento.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvEmpleados)).BeginInit();
@@ -390,7 +391,6 @@
             this.btnCerrar.Size = new System.Drawing.Size(19, 18);
             this.btnCerrar.TabIndex = 56;
             this.btnCerrar.Text = "X";
-            //this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
             // panelMantenimiento
             // 
@@ -544,7 +544,7 @@
             this.btnNuevo.IdleFillColor = System.Drawing.Color.White;
             this.btnNuevo.IdleForecolor = System.Drawing.Color.SeaGreen;
             this.btnNuevo.IdleLineColor = System.Drawing.Color.SeaGreen;
-            this.btnNuevo.Location = new System.Drawing.Point(358, 428);
+            this.btnNuevo.Location = new System.Drawing.Point(182, 430);
             this.btnNuevo.Margin = new System.Windows.Forms.Padding(5);
             this.btnNuevo.Name = "btnNuevo";
             this.btnNuevo.Size = new System.Drawing.Size(185, 49);
@@ -579,6 +579,33 @@
             this.btnActualizar.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.btnActualizar.Click += new System.EventHandler(this.btnActualizar_Click);
             // 
+            // btndelete
+            // 
+            this.btndelete.ActiveBorderThickness = 1;
+            this.btndelete.ActiveCornerRadius = 20;
+            this.btndelete.ActiveFillColor = System.Drawing.Color.SeaGreen;
+            this.btndelete.ActiveForecolor = System.Drawing.Color.White;
+            this.btndelete.ActiveLineColor = System.Drawing.Color.SeaGreen;
+            this.btndelete.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btndelete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
+            this.btndelete.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btndelete.BackgroundImage")));
+            this.btndelete.ButtonText = "&Deshabilitar";
+            this.btndelete.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btndelete.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btndelete.ForeColor = System.Drawing.Color.SeaGreen;
+            this.btndelete.IdleBorderThickness = 1;
+            this.btndelete.IdleCornerRadius = 20;
+            this.btndelete.IdleFillColor = System.Drawing.Color.White;
+            this.btndelete.IdleForecolor = System.Drawing.Color.SeaGreen;
+            this.btndelete.IdleLineColor = System.Drawing.Color.SeaGreen;
+            this.btndelete.Location = new System.Drawing.Point(377, 430);
+            this.btndelete.Margin = new System.Windows.Forms.Padding(5);
+            this.btndelete.Name = "btndelete";
+            this.btndelete.Size = new System.Drawing.Size(185, 49);
+            this.btndelete.TabIndex = 112;
+            this.btndelete.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.btndelete.Click += new System.EventHandler(this.btndelete_Click);
+            // 
             // frmEmpleado
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -586,6 +613,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1038, 479);
+            this.Controls.Add(this.btndelete);
             this.Controls.Add(this.btnActualizar);
             this.Controls.Add(this.btnNuevo);
             this.Controls.Add(this.dgvEmpleados);
@@ -641,5 +669,6 @@
         private Bunifu.Framework.UI.BunifuThinButton2 btnActualizar;
         private Bunifu.Framework.UI.BunifuThinButton2 btnNuevo;
         private System.Windows.Forms.Label label14;
+        private Bunifu.Framework.UI.BunifuThinButton2 btndelete;
     }
 }

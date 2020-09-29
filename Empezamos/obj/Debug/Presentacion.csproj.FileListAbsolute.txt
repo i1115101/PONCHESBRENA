@@ -1,0 +1,474 @@
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\WinFormAnimation.xml
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Bienvenida.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.TipoDoc.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmEstadisticasVentas.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\WinFormAnimation.xml
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmCliente.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmBienvenida.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmIngresar.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmProveedor.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmRegistroEntrada.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmTipoDoc.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmEmpleado.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmProducto.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmRegistroVentas.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Zstandard.Net.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Renci.SshNet.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.dll.config
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.dll.config
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Renci.SshNet.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmBienvenida.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmEstadisticasVentas.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmIngresar.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmProveedor.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmRegistroEntrada.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmTipoDoc.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmCliente.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmEmpleado.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmProducto.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmRegistroVentas.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.pdb
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.exe.config
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.exe
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.pdb
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Bunifu_UI_v1.52.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Entidad.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\MySql.Data.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Google.Protobuf.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Zstandard.Net.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\BouncyCastle.Crypto.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Ubiety.Dns.Core.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Renci.SshNet.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Buffers.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Hash.xxHash.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Memory.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Numerics.Vectors.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Entidad.pdb
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.pdb
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.dll.config
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.pdb
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.dll.config
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\MySql.Data.xml
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Google.Protobuf.xml
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Renci.SshNet.xml
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Buffers.xml
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.xml
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Hash.xxHash.xml
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Memory.xml
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Numerics.Vectors.xml
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmBienvenida.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmEstadisticasVentas.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Boleta.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmIngresar.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmProveedor.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmRegistroEntrada.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmTipoDoc.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Categoria.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmCliente.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmEmpleado.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmProducto.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmRegistroVentas.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.CopyComplete
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.exe
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmBienvenida.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmEstadisticasVentas.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmIngresar.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmProveedor.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmRegistroEntrada.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmTipoDoc.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmCliente.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmEmpleado.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmProducto.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmRegistroVentas.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Zstandard.Net.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Renci.SshNet.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.dll.config
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.dll.config
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Renci.SshNet.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\K_SQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.progreso.resources
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.progreso.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Zstandard.Net.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Renci.SshNet.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\LogicaNegocio.dll.config
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\AccesoDatos.dll.config
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Renci.SshNet.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmBienvenida.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmEstadisticasVentas.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.progreso.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmIngresar.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmProveedor.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmRegistroEntrada.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmTipoDoc.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmCliente.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmEmpleado.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmProducto.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmRegistroVentas.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmInformeVentas.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmInformeAlmacen.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmBoletaVenta.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmComprobanteEntrada.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmBuscProducto.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmBoletaVenta.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmBuscProducto.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmComprobanteEntrada.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmDevolucion.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmInformeAlmacen.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.frmInformeVentas.resources
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Empezamos\obj\Debug\Empezamos.progreso.resources

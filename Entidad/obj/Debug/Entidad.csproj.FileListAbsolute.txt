@@ -1,0 +1,29 @@
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Entidad\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Entidad\obj\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.pdb
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\bin\Debug\Entidad.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\bin\Debug\Entidad.pdb
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.dll
+D:\COSAS DE KEVIN\sistema\Nueva carpeta\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\System Sofo\MYSQL_C#\Kevin\SOFO SYSTEM_NCapas_SQLServer_2019\Entidad\obj\Debug\Entidad.pdb

@@ -11,21 +11,20 @@ namespace AccesoDatos
    public class DataTipoDocumento
     {        
         private Conexion ConexionDB = new Conexion();
-
-        public void InsUpdComprobanteBD(string[] str)
+        
+        public void DesabDocumentoBD(int num)
         {
             ConexionDB.CerrarConexion();
             ConexionDB.AbrirConexion();
 
-            string proc = "spInsUpdComprobante";
+            string proc = "spdeleteDocumento";
             MySqlCommand sqlC = new MySqlCommand(proc, ConexionDB.AbrirConexion());
             sqlC.CommandType = CommandType.StoredProcedure;
-            sqlC.Parameters.Add("@IdComp", MySqlDbType.Int32).Value = Convert.ToInt32(str[0]);
-            sqlC.Parameters.Add("@NomComp", MySqlDbType.VarChar).Value = str[1];
+            sqlC.Parameters.Add("@IdTDoc", MySqlDbType.Int32).Value = num;
             sqlC.ExecuteNonQuery();
 
             ConexionDB.CerrarConexion();
-            MostarDocEntrada();
+            MostrarTipoDocumento();
         }
 
         public void InsUpdDocumentoBD(string[] str)

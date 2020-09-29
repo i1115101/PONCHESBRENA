@@ -11,7 +11,13 @@ namespace LogicaNegocio
 {
     public class LogicaEmpleado
     {
-        public  DataEmpleado dataEmpleado = new DataEmpleado();        
+        public  DataEmpleado dataEmpleado = new DataEmpleado();
+
+        public void DesabEmpleado(int num)
+        {
+            dataEmpleado.DesabEmpleadoBD(num);
+        }
+
         public void InsAtcEmpleado(string[] str)
         {
             dataEmpleado.InsActEmpleadoBD(str);

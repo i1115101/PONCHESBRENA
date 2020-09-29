@@ -455,7 +455,28 @@ namespace Empezamos
             this.Close();
         }
         #endregion
-               
+
+        private void btndelete_Click(object sender, EventArgs e)
+        {
+            if (ValidarActualizarEmpleado())
+            {
+                try
+                {
+                    int id = Convert.ToInt32(txtIdEmpleado.Text);
+
+                    Empleado.DesabEmpleado(id);
+
+                    MessageBox.Show("Empleado actuaizado exitósamente");
+
+                    cargartabla();
+                    Limpiar();
+                }
+                catch
+                {
+                    MessageBox.Show("Error, no se actualizó registro");
+                }
+            }
+        }
     }
 }
     

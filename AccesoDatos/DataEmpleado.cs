@@ -7,10 +7,23 @@ namespace AccesoDatos
     public class DataEmpleado
     {
         private Conexion ConexionDB = new Conexion();
+        public void DesabEmpleadoBD(int num)
+        {
+            ConexionDB.CerrarConexion();
+            ConexionDB.AbrirConexion();
+            string proc = "spdeleteEmpleado";
+
+            MySqlCommand sqlC = new MySqlCommand(proc, ConexionDB.AbrirConexion());
+            sqlC.CommandType = CommandType.StoredProcedure;
+            sqlC.Parameters.Add("@Idempl", MySqlDbType.Int32).Value = num;
+            sqlC.ExecuteNonQuery();
+
+            ConexionDB.CerrarConexion();
+            MostrarEmpleado();
+        }
 
         public void InsActEmpleadoBD(string[] str)
         {
-
             ConexionDB.CerrarConexion();
             ConexionDB.AbrirConexion();
             string proc = "spInsUpdEmpleado";

@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A2B9831D-3777-47B1-A673-A177D5AB1EDD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Empezamos</RootNamespace>
+    <AssemblyName>Empezamos</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\Bunifu\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar">
+      <HintPath>..\packages\CircularProgressBar.2.2.0.0\lib\net35-Client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation">
+      <HintPath>..\packages\WinFormAnimation.1.3.0.0\lib\net35-Client\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bienvenida.Designer.cs">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaSOFO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaSOFO.Designer.cs">
+      <DependentUpon>SistemaSOFO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="validar.cs" />
+    <Compile Include="VisualizarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisualizarVentas.Designer.cs">
+      <DependentUpon>VisualizarVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BDSOFOBREÑADataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BDSOFOBREÑADataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Boleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Boleta.Designer.cs">
+      <DependentUpon>Boleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoletaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BoletaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\conexion.cs" />
+    <Compile Include="Ingresar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingresar.Designer.cs">
+      <DependentUpon>Ingresar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedor.Designer.cs">
+      <DependentUpon>Proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroEntrada.Designer.cs">
+      <DependentUpon>RegistroEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteEntrada.Designer.cs">
+      <DependentUpon>ReporteEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipoDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TipoDoc.Designer.cs">
+      <DependentUpon>TipoDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria.Designer.cs">
+      <DependentUpon>Categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente.Designer.cs">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado.Designer.cs">
+      <DependentUpon>Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto.Designer.cs">
+      <DependentUpon>Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPadre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPadre.Designer.cs">
+      <DependentUpon>frmPadre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistroVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroVentas.Designer.cs">
+      <DependentUpon>RegistroVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Usuarios.cs" />
+    <Compile Include="Clases\varpublic.cs" />
+    <EmbeddedResource Include="Bienvenida.resx">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaSOFO.resx">
+      <DependentUpon>SistemaSOFO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisualizarVentas.resx">
+      <DependentUpon>VisualizarVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Boleta.resx">
+      <DependentUpon>Boleta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresar.resx">
+      <DependentUpon>Ingresar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedor.resx">
+      <DependentUpon>Proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroEntrada.resx">
+      <DependentUpon>RegistroEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteEntrada.resx">
+      <DependentUpon>ReporteEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_Boleta.rdlc" />
+    <EmbeddedResource Include="rpt_entrada.rdlc" />
+    <EmbeddedResource Include="TipoDoc.resx">
+      <DependentUpon>TipoDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categoria.resx">
+      <DependentUpon>Categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente.resx">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado.resx">
+      <DependentUpon>Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Producto.resx">
+      <DependentUpon>Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPadre.resx">
+      <DependentUpon>frmPadre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroVentas.resx">
+      <DependentUpon>RegistroVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BDSOFOBREÑADataSet.xsc">
+      <DependentUpon>BDSOFOBREÑADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BDSOFOBREÑADataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BDSOFOBREÑADataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BDSOFOBREÑADataSet.xss">
+      <DependentUpon>BDSOFOBREÑADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BoletaDataSet.xsc">
+      <DependentUpon>BoletaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BoletaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BoletaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BoletaDataSet.xss">
+      <DependentUpon>BoletaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Clases\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidad\Entidad.csproj">
+      <Project>{7b30718c-c65e-4166-809e-fd2142a75202}</Project>
+      <Name>Entidad %28Entidad\Entidad%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LogicaNegocio\LogicaNegocio.csproj">
+      <Project>{5c2169b7-7061-4fa8-9fac-74c80779cac3}</Project>
+      <Name>LogicaNegocio %28LogicaNegocio\LogicaNegocio%29</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

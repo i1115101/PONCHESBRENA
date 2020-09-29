@@ -1,0 +1,1001 @@
+f:\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+f:\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+f:\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+f:\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+f:\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+f:\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+f:\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+f:\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\ALEXANDER\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Form1.resources
+C:\Users\ALEXANDER\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\ALEXANDER\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\obj\Debug\Empezamos.Form1.resources
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\obj\Debug\Empezamos.Form2.resources
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\obj\Debug\Empezamos.Form3.resources
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\obj\Debug\Empezamos.form4.resources
+D:\ABRAHAM\Empezamos-20191106T142509Z-001\Empezamos\Empezamos\obj\Debug\Empezamos.form5.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+J:\__\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+J:\__\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+J:\__\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+J:\__\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+J:\__\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+J:\__\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+J:\__\Empezamos\Empezamos\obj\Debug\Empezamos.Form1.resources
+J:\__\Empezamos\Empezamos\obj\Debug\Empezamos.Form2.resources
+J:\__\Empezamos\Empezamos\obj\Debug\Empezamos.Form3.resources
+J:\__\Empezamos\Empezamos\obj\Debug\Empezamos.form4.resources
+J:\__\Empezamos\Empezamos\obj\Debug\Empezamos.form5.resources
+J:\__\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+J:\__\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+J:\__\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+K:\__\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+K:\__\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+K:\__\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+K:\__\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+K:\__\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+K:\__\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+K:\__\Empezamos\Empezamos\obj\Debug\Empezamos.Form1.resources
+K:\__\Empezamos\Empezamos\obj\Debug\Empezamos.Form2.resources
+K:\__\Empezamos\Empezamos\obj\Debug\Empezamos.Form3.resources
+K:\__\Empezamos\Empezamos\obj\Debug\Empezamos.form4.resources
+K:\__\Empezamos\Empezamos\obj\Debug\Empezamos.form5.resources
+K:\__\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+K:\__\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+K:\__\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form1.resources
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form2.resources
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form3.resources
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.form5.resources
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+J:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+H:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+H:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+H:\__\S1007-S02CM1-2019-2-Base de Datos\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.DetalleEntrada.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.Venta.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.Cargo.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.Boleta.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.Form6.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.Entradas.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+F:\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroPedido.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Venta.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Cargo.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Form6.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Entradas.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroPedido.resources
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.Venta.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.Cargo.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.Form6.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.Entradas.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroPedido.resources
+C:\Users\Usuario\Desktop\Prueba\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+J:\__\proyecto modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Venta.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cargo.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form6.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Entradas.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+J:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+G:\__\proyecto modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+G:\__\proyecto modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+G:\__\proyecto modular\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Venta.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cargo.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form6.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Entradas.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+G:\__\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Venta.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cargo.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form6.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Entradas.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\proyecto modular\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cargo.resources
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\ALEXANDER\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cargo.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\reportes entradas\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.ReporteVentas.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.ListaVentas.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Login.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.ListaVentas.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Login.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+F:\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+F:\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+F:\Proyecto Modular\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+F:\Proyecto Modular\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+F:\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+F:\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+F:\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.ListaVentas.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Login.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+F:\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.ListaVentas.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Login.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.ListaVentas.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Login.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\ALEXANDER\Desktop\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.ReporteBoleta.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.exe.config
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.exe
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.pdb
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.exe
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\bin\Debug\Empezamos.pdb
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.ReporteBoleta.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Form10.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Categoria.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Cliente.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Empleado.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Producto.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\RdlCompile.cache
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\RdlCompile.compiled
+D:\ABRAHAM\reportes de ventas y entradas + login\claro pe mascota\claro pe mascota\practicando validación\Empezamos\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\bin\Debug\Empezamos.exe.config
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.exe
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.pdb
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\bin\Debug\Empezamos.exe
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\bin\Debug\Empezamos.pdb
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.ReporteBoleta.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Form10.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Categoria.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Cliente.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Empleado.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Producto.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\RdlCompile.cache
+D:\ABRAHAM\SOFOCONTI 1.0\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.ReporteBoleta.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\SOFOCONTI 1.0\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.BoletaVenta.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.BoletaVenta.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\ALEXANDER\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.BoletaVenta.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\bin\Debug\pa-Guru\Empezamos.resources.dll
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.frmPadre.pa-Guru.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\pa-Guru\Empezamos.resources.dll
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\bin\Debug\mzn-IR\Empezamos.resources.dll
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.frmPadre.mzn-IR.resources
+C:\Users\Personal\Desktop\ultimo abraham\Sistema Ventas Almacen\Empezamos\obj\Debug\mzn-IR\Empezamos.resources.dll
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe.config
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.exe
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.pdb
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.pdb
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.BoletaVenta.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Form10.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Categoria.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Cliente.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Empleado.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Producto.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.cache
+I:\MIS PONCHES XD\PonchesBreñaULTI\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.compiled
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe.config
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.exe
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.pdb
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.pdb
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.BoletaVenta.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Form10.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Categoria.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Cliente.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Empleado.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Producto.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.cache
+F:\papayadecelaya\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.compiled
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\bin\Debug\Empezamos.exe.config
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.exe
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.pdb
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\bin\Debug\Empezamos.exe
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\bin\Debug\Empezamos.pdb
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.BoletaVenta.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Form10.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Categoria.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Cliente.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Empleado.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Producto.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\RdlCompile.cache
+F:\papayadecelaya\Sistema Ventas Almacen2\Empezamos\obj\Debug\RdlCompile.compiled
+F:\Sistema Ventas Almacen2\Empezamos\bin\Debug\Empezamos.exe.config
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.exe
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.pdb
+F:\Sistema Ventas Almacen2\Empezamos\bin\Debug\Empezamos.exe
+F:\Sistema Ventas Almacen2\Empezamos\bin\Debug\Empezamos.pdb
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.BoletaVenta.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Form10.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Categoria.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Cliente.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Empleado.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Producto.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\RdlCompile.cache
+F:\Sistema Ventas Almacen2\Empezamos\obj\Debug\RdlCompile.compiled
+F:\Ga\Sistema Ventas Almacen2\Empezamos\bin\Debug\Empezamos.exe.config
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.exe
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.pdb
+F:\Ga\Sistema Ventas Almacen2\Empezamos\bin\Debug\Empezamos.exe
+F:\Ga\Sistema Ventas Almacen2\Empezamos\bin\Debug\Empezamos.pdb
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.BoletaVenta.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Form10.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Categoria.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Cliente.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Empleado.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Producto.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\RdlCompile.cache
+F:\Ga\Sistema Ventas Almacen2\Empezamos\obj\Debug\RdlCompile.compiled
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe.config
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.exe
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.pdb
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Form10.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Categoria.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Cliente.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Empleado.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Producto.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.cache
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.compiled
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\ALEXANDER\Desktop\La Exposicion se acareca\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Boleta.resources
+D:\ABRAHAM\Sistema Ventas Almacen\Empezamos\obj\Debug\Empezamos.Boleta.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe.config
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.exe
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.pdb
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.pdb
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Boleta.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Form10.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Categoria.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Cliente.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Empleado.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Producto.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.cache
+D:\ABRAHAM\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\ALEXANDER\Desktop\ok\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\ALEXANDER\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe.config
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.exe
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.pdb
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.pdb
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Boleta.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Form10.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Categoria.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Cliente.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Empleado.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Producto.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.cache
+F:\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Ultimito xd()Abraham\Sistema Ventas Almacen ult\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ult\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Sistema Ventas Almacen ToolTip\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Bienvenida.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Form10.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\bin\Debug\CircularProgressBar.dll
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\bin\Debug\WinFormAnimation.dll
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\bin\Debug\WinFormAnimation.xml
+C:\Users\Usuario\Desktop\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\bin\Debug\CircularProgressBar.dll
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\bin\Debug\WinFormAnimation.dll
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\bin\Debug\WinFormAnimation.xml
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Bienvenida.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.alojamiento.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO ToolTip\Empezamos\obj\Debug\Empezamos.TipoDoc.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\bin\Debug\CircularProgressBar.dll
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\bin\Debug\WinFormAnimation.dll
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\bin\Debug\WinFormAnimation.xml
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.alojamiento.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.Bienvenida.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.TipoDoc.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\obj\Debug\Empezamos.FormLogo.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO Modelado\Empezamos\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\bin\Debug\WinFormAnimation.xml
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.alojamiento.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Bienvenida.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.FormLogo.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.TipoDoc.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Menú modernista\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+F:\SOFO SYSTEM\Empezamos\bin\Debug\Empezamos.exe.config
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.exe
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.pdb
+F:\SOFO SYSTEM\Empezamos\bin\Debug\Empezamos.exe
+F:\SOFO SYSTEM\Empezamos\bin\Debug\Empezamos.pdb
+F:\SOFO SYSTEM\Empezamos\bin\Debug\Bunifu_UI_v1.52.dll
+F:\SOFO SYSTEM\Empezamos\bin\Debug\CircularProgressBar.xml
+F:\SOFO SYSTEM\Empezamos\bin\Debug\WinFormAnimation.xml
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.alojamiento.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Bienvenida.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.FormLogo.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Boleta.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.TipoDoc.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Categoria.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Cliente.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Empleado.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Producto.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+F:\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+F:\SOFO SYSTEM\Empezamos\obj\Debug\RdlCompile.cache
+F:\SOFO SYSTEM\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\WinFormAnimation.xml
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.alojamiento.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Bienvenida.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.FormLogo.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.TipoDoc.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM\Empezamos\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Empezamos.exe.config
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.alojamiento.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Bienvenida.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.FormLogo.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.SistemaSOFO.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.VisualizarVentas.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Boleta.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Ingresar.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Proveedor.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.RegistroEntrada.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.ReporteEntrada.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.TipoDoc.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Categoria.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Cliente.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Empleado.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.Producto.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.frmPadre.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.RegistroVentas.resources
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\Empezamos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Empezamos.exe
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Empezamos.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\WinFormAnimation.xml
+C:\Users\Usuario\Desktop\SOFO SYSTEM_NCapas\Empezamos\bin\Debug\AccesoDatos.pdb
